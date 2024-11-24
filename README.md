@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+If anybody knows anything about very accurate odometry on swerve, please enlighten me. 
+
 <!--
 **Remysaurus/Remysaurus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
